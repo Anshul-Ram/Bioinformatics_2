@@ -1,6 +1,6 @@
 # Open Bioinformatics Course #2
 
-## This IPython notebook is a part of a :
+## This IPython notebook is a part of an online course on Bioinformatics:
 
 ### **Finding the site of the Ori (Origin Of Replication of DNA).**
 
