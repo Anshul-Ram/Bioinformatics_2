@@ -1,8 +1,6 @@
 # Open Bioinformatics Course #2
 
-
-## Finding the site of the Ori within a strand of DNA
-
+## This IPython notebook is a part of a :
 
 ### **Finding the site of the Ori (Origin Of Replication of DNA).**
 
